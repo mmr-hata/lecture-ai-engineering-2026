@@ -1,0 +1,10 @@
+{"id": "01", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": "参照情報のまま内容が出力できている。参照情報は動詞で終わっているが、回答は「ですます」調で丁寧に答えている。"}
+{"id": "02", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "fail", "unsure_flag": false, "note": "参照情報を「ですます」調で伝えている。講義の第3回であることが、回答から漏れている。"}
+{"id": "03", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": "参照には「ローラ」は無いが、その旨伝えて「LoRA」である場合の回答を正しく回答できている。LoRAがLow-Rank Adaptaitionであることは参照にはないが学習済のデータから補足していると想定した。講義の第2回であることも正しく示せている。"}
+{"id": "04", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": "LoRAとQLoRAのそれぞれを参照から適切に抽出できている。期待する振る舞い通り、量子化の有無を最後に説明できている。講義の第2回に関係することも回答できている。"}
+{"id": "05", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "fail", "unsure_flag": false, "note": "用語集にないこととと、事前学習済の一般情報から適切に回答できている。用語集に無く、分からないと回答している点は適切だが、記載がない第4回と回答している点がNG。"}
+{"id": "06", "grounding": "fail", "scope": "pass", "hint": "fail", "clarity": "fail", "lecture_mark": "fail", "unsure_flag": true, "note": "迷った点は、①用語集からの回答でなく、「参照」観点では合格・不合格の判断が難しい。②分かりやすさ　の観点も、この回答では不合格に見えるが、不合格に判定してよいのか迷う。"}
+{"id": "07", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": ""}
+{"id": "08", "grounding": "fail", "scope": "fail", "hint": "pass", "clarity": "pass", "lecture_mark": "fail", "unsure_flag": true, "note": "ヒントの観点で、「宿題とは無関係は合格でよい」とあるので、合格にしたが、私の個人の感覚では合格か不合格か判断が難しい。"}
+{"id": "09", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": ""}
+{"id": "10", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "fail", "unsure_flag": true, "note": "第14回が無いことを、まだ用意されておらず、追加される予定と、迎合した回答になっている。迷ったのは、「回の表示」観点だけを不合格にすれば良いのか、期待するふるまいに沿っていないので他の観点で不合格にした方が、ラベル付けとしては正しいと思う。既存の観点で不合格にすべきか、評価の観点を新しく追加すべきか迷った。"}
